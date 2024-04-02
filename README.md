@@ -1,6 +1,5 @@
 **Azure With Active Directory Lab**
-![image](https://github.com/Malik-444/Azure-Active-Directory-Lab/assets/151242422/0f76a387-3c7a-461d-a3cd-653e6f6d1a57)
-
+![image](https://github.com/Malik-444/Azure-Active-Directory-Lab/assets/151242422/bb368215-a628-4c1a-9ac1-db910e047144)
 **Objective:**
 The Azure Active Directory (Azure AD) lab is designed to provide participants with a comprehensive understanding of integrating on-premises Active Directory with Azure AD. The primary objective is to familiarize users with the functionalities, features, and benefits of Azure AD for identity and access management in a cloud environment.
 
