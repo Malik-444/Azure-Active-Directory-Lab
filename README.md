@@ -1,4 +1,4 @@
-**Azure AD(Entra ID) Lab**
+**Azure With Active Directory Lab**
 ![image](https://github.com/Malik-444/Azure-Active-Directory-Lab/assets/151242422/67e6cc14-586a-4f67-b5f8-32fedcc18af0)
 
 **Objective:**
